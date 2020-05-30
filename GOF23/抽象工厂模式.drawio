@@ -1,140 +1,239 @@
-<mxfile host="app.diagrams.net" modified="2020-05-30T08:20:04.242Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="-6IdGb6PP9ZiQWst6CQ5" version="13.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-30T08:31:36.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="PRN7oHDj_0i0J1Yn_Sfc" version="13.1.6" type="github">
   <diagram id="CRJVA2HOcljvkNcYuCD2" name="第 1 页">
     <mxGraphModel dx="1422" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-1" value="英国男人" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="480" width="80" height="40" as="geometry" />
+          <mxGeometry x="120" y="290" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-2" value="美国男人" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="120" y="210" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-3" value="中国男人" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="120" y="130" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-4" value="英国女人" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="480" width="80" height="40" as="geometry" />
+          <mxGeometry x="240" y="290" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-5" value="美国女人" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="240" y="210" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-6" value="中国女人" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="240" y="130" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-8" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="570" as="sourcePoint" />
-            <mxPoint x="110" y="250" as="targetPoint" />
+            <mxPoint x="110" y="380" as="sourcePoint" />
+            <mxPoint x="110" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-9" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="250" as="sourcePoint" />
-            <mxPoint x="210" y="250" as="targetPoint" />
+            <mxPoint x="110" y="60" as="sourcePoint" />
+            <mxPoint x="210" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-10" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="570" as="sourcePoint" />
-            <mxPoint x="210" y="250" as="targetPoint" />
+            <mxPoint x="210" y="380" as="sourcePoint" />
+            <mxPoint x="210" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-11" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="570" as="sourcePoint" />
-            <mxPoint x="210" y="570" as="targetPoint" />
+            <mxPoint x="110" y="380" as="sourcePoint" />
+            <mxPoint x="210" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-12" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="250" as="sourcePoint" />
-            <mxPoint x="330" y="250" as="targetPoint" />
+            <mxPoint x="230" y="60" as="sourcePoint" />
+            <mxPoint x="330" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-13" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="570" as="sourcePoint" />
-            <mxPoint x="230" y="250" as="targetPoint" />
+            <mxPoint x="230" y="380" as="sourcePoint" />
+            <mxPoint x="230" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-14" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="570" as="sourcePoint" />
-            <mxPoint x="330" y="250" as="targetPoint" />
+            <mxPoint x="330" y="380" as="sourcePoint" />
+            <mxPoint x="330" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-16" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="570" as="sourcePoint" />
-            <mxPoint x="330" y="570" as="targetPoint" />
+            <mxPoint x="230" y="380" as="sourcePoint" />
+            <mxPoint x="330" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-17" value="产品等级" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="130" y="267" width="60" height="20" as="geometry" />
+          <mxGeometry x="130" y="77" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-18" value="产品等级" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="250" y="267" width="60" height="20" as="geometry" />
+          <mxGeometry x="250" y="77" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-19" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="300" as="sourcePoint" />
-            <mxPoint x="400" y="300" as="targetPoint" />
+            <mxPoint x="40" y="110" as="sourcePoint" />
+            <mxPoint x="400" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-20" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="380" as="sourcePoint" />
-            <mxPoint x="400" y="380" as="targetPoint" />
+            <mxPoint x="40" y="190" as="sourcePoint" />
+            <mxPoint x="400" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-21" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="460" as="sourcePoint" />
-            <mxPoint x="400" y="460" as="targetPoint" />
+            <mxPoint x="40" y="270" as="sourcePoint" />
+            <mxPoint x="400" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-22" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="540" as="sourcePoint" />
-            <mxPoint x="400" y="540" as="targetPoint" />
+            <mxPoint x="40" y="350" as="sourcePoint" />
+            <mxPoint x="400" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-23" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="540" as="sourcePoint" />
-            <mxPoint x="400" y="300" as="targetPoint" />
+            <mxPoint x="400" y="350" as="sourcePoint" />
+            <mxPoint x="400" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-24" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="540" as="sourcePoint" />
-            <mxPoint x="40" y="300" as="targetPoint" />
+            <mxPoint x="40" y="350" as="sourcePoint" />
+            <mxPoint x="40" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-25" value="产品族" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="340" y="330" width="50" height="20" as="geometry" />
+          <mxGeometry x="340" y="140" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-26" value="产品族" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="340" y="490" width="50" height="20" as="geometry" />
+          <mxGeometry x="340" y="300" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-27" value="产品族" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="340" y="410" width="50" height="20" as="geometry" />
+          <mxGeometry x="340" y="220" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-28" value="中国人" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="330" width="50" height="20" as="geometry" />
+          <mxGeometry x="50" y="140" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-29" value="美国人" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="410" width="50" height="20" as="geometry" />
+          <mxGeometry x="50" y="220" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-30" value="英国人" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="50" y="490" width="50" height="20" as="geometry" />
+          <mxGeometry x="50" y="300" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-31" value="男人" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="550" width="40" height="20" as="geometry" />
+          <mxGeometry x="140" y="360" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pKqgtVXRhoI8Ptj_Tdjm-32" value="女人" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="550" width="40" height="20" as="geometry" />
+          <mxGeometry x="260" y="360" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zZR_3KJ4aJAwtUyfdRcF-1" target="zZR_3KJ4aJAwtUyfdRcF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="zZR_3KJ4aJAwtUyfdRcF-1" target="zZR_3KJ4aJAwtUyfdRcF-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-1" value="英国男人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="290" y="835" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zZR_3KJ4aJAwtUyfdRcF-2" target="zZR_3KJ4aJAwtUyfdRcF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="zZR_3KJ4aJAwtUyfdRcF-2" target="zZR_3KJ4aJAwtUyfdRcF-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-2" value="美国男人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="190" y="835" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zZR_3KJ4aJAwtUyfdRcF-3" target="zZR_3KJ4aJAwtUyfdRcF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="zZR_3KJ4aJAwtUyfdRcF-3" target="zZR_3KJ4aJAwtUyfdRcF-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-3" value="中国男人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="90" y="835" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zZR_3KJ4aJAwtUyfdRcF-4" target="zZR_3KJ4aJAwtUyfdRcF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="zZR_3KJ4aJAwtUyfdRcF-4" target="zZR_3KJ4aJAwtUyfdRcF-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-4" value="英国女人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="600" y="835" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zZR_3KJ4aJAwtUyfdRcF-5" target="zZR_3KJ4aJAwtUyfdRcF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="zZR_3KJ4aJAwtUyfdRcF-5" target="zZR_3KJ4aJAwtUyfdRcF-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-5" value="美国女人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="404" y="835" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zZR_3KJ4aJAwtUyfdRcF-6" target="zZR_3KJ4aJAwtUyfdRcF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.808;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="zZR_3KJ4aJAwtUyfdRcF-6" target="zZR_3KJ4aJAwtUyfdRcF-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-6" value="中国女人" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="500" y="835" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-7" value="男人" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-8" value="女人" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-18" value="地球&lt;br&gt;男人()&lt;br&gt;女人()" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="371" y="1180" width="86" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-28" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zZR_3KJ4aJAwtUyfdRcF-19" target="zZR_3KJ4aJAwtUyfdRcF-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-19" value="中国&lt;br&gt;中国男人()&lt;br&gt;中国女人()" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-29" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zZR_3KJ4aJAwtUyfdRcF-20" target="zZR_3KJ4aJAwtUyfdRcF-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-20" value="美国&lt;br&gt;美国男人()&lt;br&gt;美国女人()" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zZR_3KJ4aJAwtUyfdRcF-21" target="zZR_3KJ4aJAwtUyfdRcF-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-21" value="英国&lt;br&gt;英国男人()&lt;br&gt;英国女人" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-31" value="男人都属于同一个产品等级男人，全部实现男人接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="778" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-32" value="女人都属于同一个产品等级女人，全部实现女人接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="389" y="782" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-34" value="中国男人和中国女人都属于一个产品族，中国" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1010" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-36" value="美国男人和美国女人都属于一个产品族，美国" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1110" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-37" value="英国男人和英国女人都属于一个产品族，英国" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1010" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zZR_3KJ4aJAwtUyfdRcF-38" value="抽象工厂地球用来创建各国的工厂" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="1300" width="200" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
