@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2020-05-31T03:09:11.917Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="3wSnLCyzbYkyKaxOSYoQ" version="13.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-31T03:09:55.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="eei6o9qIrVr23YDU6_sr" version="13.1.9" type="github">
   <diagram id="5IieXqA3bNdBaU_08Idm" name="第 1 页">
     <mxGraphModel dx="1422" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3Wj96zlhxrtbAhl88Sn9-1" value="建造者抽象&lt;br&gt;步骤1()&lt;br&gt;步骤2()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="260" width="120" height="80" as="geometry" />
+          <mxGeometry x="294" y="240" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3Wj96zlhxrtbAhl88Sn9-2" value="产品&lt;br&gt;产品也是由&lt;br&gt;步骤1&lt;br&gt;步骤2组成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="134" y="380" width="120" height="80" as="geometry" />
+          <mxGeometry x="90" y="370" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
