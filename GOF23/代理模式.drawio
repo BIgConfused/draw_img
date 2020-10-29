@@ -1,17 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T07:29:03.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="UpkPpv3CuBnnk8YykHOC" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-29T07:40:01.386Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="foixaSfbWkd0LxBfG3jd" version="13.6.6" type="github">
   <diagram id="MNh6ozVm8EmuWn3l_voW" name="第 1 页">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rutc0M6_75axCSE-a2qx-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;主题接口&lt;/font&gt;&lt;/b&gt;：定义真是主题和代理类的公共方法，也是代理类代理真是主题的方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="200" width="140" height="80" as="geometry" />
+          <mxGeometry x="320" y="190" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rutc0M6_75axCSE-a2qx-2" value="真是主题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="rutc0M6_75axCSE-a2qx-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rutc0M6_75axCSE-a2qx-7" target="rutc0M6_75axCSE-a2qx-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rutc0M6_75axCSE-a2qx-3" value="代理类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="rutc0M6_75axCSE-a2qx-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;真是主题&lt;/font&gt;&lt;/b&gt;：真正实现业务逻辑的类" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="70" y="360" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rutc0M6_75axCSE-a2qx-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rutc0M6_75axCSE-a2qx-11" target="rutc0M6_75axCSE-a2qx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rutc0M6_75axCSE-a2qx-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rutc0M6_75axCSE-a2qx-14" target="rutc0M6_75axCSE-a2qx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rutc0M6_75axCSE-a2qx-3" value="&lt;b style=&quot;font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;代理类&lt;/font&gt;：&lt;/b&gt;用来代理和封装真实主题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rutc0M6_75axCSE-a2qx-4" value="Main调用" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="230" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="rutc0M6_75axCSE-a2qx-7" value="真实接口实现主题接口进行业务逻辑处理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rutc0M6_75axCSE-a2qx-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rutc0M6_75axCSE-a2qx-2" target="rutc0M6_75axCSE-a2qx-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="380" as="sourcePoint" />
+            <mxPoint x="270" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rutc0M6_75axCSE-a2qx-11" value="代理类实现主题接口，在实现主题接口的方法中对真实主题进行初始化，并使用初始化后的真是主题对象调用业务逻辑处理方法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="350" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rutc0M6_75axCSE-a2qx-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rutc0M6_75axCSE-a2qx-3" target="rutc0M6_75axCSE-a2qx-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="490" as="sourcePoint" />
+            <mxPoint x="390" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rutc0M6_75axCSE-a2qx-14" value="调用方法构造多态代理类对象，调用代理类代理真实主题中的业务逻辑方法进行真是主题初始化，并使用真实对象调用业务逻辑方法通过代理类中的方法进行返回" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="320" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rutc0M6_75axCSE-a2qx-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rutc0M6_75axCSE-a2qx-3" target="rutc0M6_75axCSE-a2qx-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="510" as="sourcePoint" />
+            <mxPoint x="620" y="385" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
